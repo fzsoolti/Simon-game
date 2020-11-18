@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-color: #000033;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    border-radius: 20%;
+    border: 10px solid black;
+    display: inline-block;
+}
+
+.container{
+    width: 50%;
+    margin: auto;
+}
+
+#red{
+    background-color: red;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#green{
+    background-color: green;
+}
+
+#title{
+    font-size: 100px;
+    color: honeydew;
+}
+
+.correct{
+    background-color: green;
+}
+
+.incorrect{
+    background-color: red;
+}
