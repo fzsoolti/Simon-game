@@ -1,3 +1,4 @@
 # Simon-game
 HTML, CSS, jQuery
-https://fzsoolti.github.io/Simon-game/
+
+Simon game in jQuery, HTML and CSS. Images about the game in the IMAGES folder.
